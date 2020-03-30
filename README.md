@@ -2,7 +2,7 @@
 
 Le specifiche dell'esercizio si trovano nel file 'specifiche.txt'.
 
-Se avete domande sulle specifiche, fatele nel gruppo telegram oppure postate una "Issue" su questo progetto.
+Se avete domande sulle specifiche, fatele nel gruppo telegram oppure postate una "Issue" su questo progetto (tramite Github).
 
 
 Iscrivetevi a Gihub, fate un FORK di questo progetto ed implementate la soluzione nella vostra repository.
